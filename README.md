@@ -1,6 +1,5 @@
-[![Build Status](https://travis-ci.org/MD1968/e-scooters.svg?branch=master)](https://travis-ci.org/MD1968/e-scooters)
 
-# Welcome to E Scooters
+# Welcome to Silverheath
 
 ## (c) Mark Dyson
 
@@ -17,7 +16,7 @@ CSV: Any three numhers
 
 ### Concept:
 
-The idea for the application followed news reports of the government looking into running trials of E-Scooters later this year. I was already researching the product to sell for the fourth project of course. Looking at www.halfords.co.uk I realised that a good selection is already on the market.
+The idea for the application followed news reports of the government looking into running trials of Silverheath later this year. I was already researching the product to sell for the fourth project of course. Looking at www.halfords.co.uk I realised that a good selection is already on the market.
 I decided to create a project using data and photos gained from Halfords.
 
 The course materials from the Code Institute was also very valuable as a resource and inspiration.

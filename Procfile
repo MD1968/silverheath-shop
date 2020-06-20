@@ -1,1 +1,1 @@
-web: gunicorn e_scooters.wsgi:application
+web: gunicorn silverheath.wsgi:application

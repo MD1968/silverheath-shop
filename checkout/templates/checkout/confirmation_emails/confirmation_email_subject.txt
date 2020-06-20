@@ -1,1 +1,1 @@
-E Scooters Confirmation for Order Number {{ order.order_number }}
+Silverheath Confirmation for Order Number {{ order.order_number }}
