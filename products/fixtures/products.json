@@ -1,0 +1,165 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "8743190",
+        "name": "Xiaomi Mi M365 Electric Scooter - Black",
+      "description": "For the last two years, this has been the worlds top selling scooter. Swift, accessible, attractive and great value.  With a top speed of 15mph, you'll cover 2 miles in just 8 minutes – 20 minutes faster than walking. Air-filled tyres mean the Xiaomi M365 makes most surfaces feel silky smooth. The speed and acceleration controls are so simple, anyone can learn to ride in minutes – plus, it’s a great electric scooter to look at. The light, aluminium construction means you can quickly fold it down for carrying and storage.",
+      "miles": "18.6",
+      "km": "29",
+      "time": "5",
+      "price": "499.00",
+      "category": "1",
+      "rating": 4.6,
+      "image": "843190.webp"
+    }
+  },
+
+
+ {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "2326622",
+        "name": "XSpider-Man 12V Electric Scooter",
+      "description": "Swing into action on this super cool Spider-Man 12V Electric Scooter - the perfect playtime for any little super hero!",
+      "miles": "3.5",
+      "km": "6.6",
+      "time": "8",
+      "price": "90",
+      "category": "2",
+      "rating": 4.6,
+      "image": "232622.webp"
+    }
+  },
+{
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "2362622",
+        "name": "XSpider-Man 12V Electric Scooter",
+      "description": "Swing into action on this super cool Spider-Man 12V Electric Scooter - the perfect playtime for any little super hero!",
+      "miles": "3.5",
+      "km": "6.6",
+      "time": "8",
+      "price": "90",
+      "category": "2",
+      "rating": 4.6,
+      "image": "232622.webp"
+    }
+  },
+{
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "2322622",
+        "name": "XSpider-Man 12V Electric Scooter",
+      "description": "Swing into action on this super cool Spider-Man 12V Electric Scooter - the perfect playtime for any little super hero!",
+      "miles": "3.5",
+      "km": "6.6",
+      "time": "8",
+      "price": "90",
+      "category": "2",
+      "rating": 4.6,
+      "image": "232622.webp"
+    }
+  },
+{
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "2372622",
+        "name": "XSpider-Man 12V Electric Scooter",
+      "description": "Swing into action on this super cool Spider-Man 12V Electric Scooter - the perfect playtime for any little super hero!",
+      "miles": "3.5",
+      "km": "6.6",
+      "time": "8",
+      "price": "90",
+      "category": "2",
+      "rating": 4.6,
+      "image": "232622.webp"
+    }
+  },
+{
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "2362622",
+        "name": "XSpider-Man 12V Electric Scooter",
+      "description": "Swing into action on this super cool Spider-Man 12V Electric Scooter - the perfect playtime for any little super hero!",
+      "miles": "3.5",
+      "km": "6.6",
+      "time": "8",
+      "price": "90",
+      "category": "2",
+      "rating": 4.6,
+      "image": "232622.webp"
+    }
+  },
+{
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "2325622",
+        "name": "XSpider-Man 12V Electric Scooter",
+      "description": "Swing into action on this super cool Spider-Man 12V Electric Scooter - the perfect playtime for any little super hero!",
+      "miles": "3.5",
+      "km": "6.6",
+      "time": "8",
+      "price": "90",
+      "category": "2",
+      "rating": 4.6,
+      "image": "232622.webp"
+    }
+  },
+{
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "2324622",
+        "name": "XSpider-Man 12V Electric Scooter",
+      "description": "Swing into action on this super cool Spider-Man 12V Electric Scooter - the perfect playtime for any little super hero!",
+      "miles": "3.5",
+      "km": "6.6",
+      "time": "8",
+      "price": "90",
+      "category": "2",
+      "rating": 4.6,
+      "image": "232622.webp"
+    }
+  },
+{
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "232632",
+        "name": "XSpider-Man 12V Electric Scooter",
+      "description": "Swing into action on this super cool Spider-Man 12V Electric Scooter - the perfect playtime for any little super hero!",
+      "miles": "3.5",
+      "km": "6.6",
+      "time": "8",
+      "price": "90",
+      "category": "2",
+      "rating": 4.6,
+      "image": "232622.webp"
+    }
+  },
+
+  {
+    "pk": 174,
+    "model": "products.product",
+    "fields": {
+      "sku": "2860354",
+      "name": "Xiaomi Mi M365 Electric Scooter - White",
+      "description": "For the last two years, this has been the worlds top selling scooter. Swift, accessible, attractive and great value.  With a top speed of 15mph, you'll cover 2 miles in just 8 minutes – 20 minutes faster than walking. Air-filled tyres mean the Xiaomi M365 makes most surfaces feel silky smooth. The speed and acceleration controls are so simple, anyone can learn to ride in minutes – plus, it’s a great electric scooter to look at. The light, aluminium construction means you can quickly fold it down for carrying and storage.",
+      "miles": "18.6",
+      "km": "29",
+      "time": "5",
+      "price": "499.00",
+      "category": "1",
+      "rating": 4.6,
+      "image": "286054.webp"
+    }
+  }
+]

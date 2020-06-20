@@ -1,39 +1,47 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+[![Build Status](https://travis-ci.org/MD1968/e-scooters.svg?branch=master)](https://travis-ci.org/MD1968/e-scooters)
 
-Welcome USER_NAME,
+# Welcome to E Scooters
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+## (c) Mark Dyson
 
-## Gitpod Reminders
+This is my fourth milestone project for the Full Stack Developer Diploma with the Code Institute.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This web application is a fully fledged e commerce shop.
 
-`python3 -m http.server`
+Please do not use your own credit card details while checking out as I will not be sending out any products.
 
-A blue button should appear to click: *Make Public*,
+If you wish to try out the site you can use a test credit card. Details Below.
+Card Number: 4000 0082 6000 0000 
+Expiry Date: Any future date
+CSV: Any three numhers
 
-Another blue button should appear to click: *Open Browser*.
+### Concept:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The idea for the application followed news reports of the government looking into running trials of E-Scooters later this year. I was already researching the product to sell for the fourth project of course. Looking at www.halfords.co.uk I realised that a good selection is already on the market.
+I decided to create a project using data and photos gained from Halfords.
 
-A blue button should appear to click: *Make Public*,
+The course materials from the Code Institute was also very valuable as a resource and inspiration.
 
-Another blue button should appear to click: *Open Browser*.
+### UI/UX:
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+I wanted the site to be clean, clear and concise. <br>The general colour for the text, buttons, banners etc to be green to highlight the environmentally friendly credentials of the product available.
+<br>The page background has been coded to be white so not to distract from the item information and page contents.  <br>The buttons, banners have also been placed and coloured as not to distract from the overall message.
 
-## Updates Since The Instructional Video
+### User stories: 
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+### General visitor:
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### Browsing:
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+The ability to browse the project range. Short projects by Name, Range, Charge time, Price. Filter by size (Child or Adult). 
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Shopping:
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Selection of a product by either entering quantity or clicking on button for a single item. <br>The shopping trolley icon on the top of the screen will change colour and show the value in the shopping cart
+From the cart the shopper can add, amend or remove their products from the cart summary screen. Then when happy move onto a secure and easy to follow check out process. 
 
---------
+### Profile:
+The user can create an account for recurring visits. This can be easily achieved by selecting on the icon on the top of the screen. They are taken to a page to allow them to create an account or login if they already have a account. Also present is the ability to reset their password. The reset password link will be emailed once the visitor has entered their details
+Once logged in the visitor can enter their contact details and review past orders. 
 
-Happy coding!
+### Admin 
